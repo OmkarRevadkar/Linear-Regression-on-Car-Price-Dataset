@@ -1,4 +1,4 @@
-Linear Regression is a supervised learning model. It uses regression algorithm where our target variable is continuous. Sampling is possible and we have performed it on Lung Capacity Dataset. Finally, we have also removed outliers to the best possible extent.
+Linear Regression is a supervised learning model. It uses regression algorithm where our target variable is continuous. Sampling is possible and we have performed it on Car Price Dataset. Finally, we have also removed outliers to the best possible extent.
 
 Following steps are involved:
 
